@@ -21,7 +21,7 @@ app.listen(PORT, () => {
 ```
   "start": "node server/index.js"
 ```
-7) To confirm everything is workin till now run `npm start` and visit `http://localhost:3001/api` you should see the message from server.
+7) To confirm everything is workin till now run `npm start` and visit `http://localhost:3001` you should see the message from server.
 
 8) Create an endpoint in index.js file of your backend project
 ```
